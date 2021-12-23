@@ -6,12 +6,7 @@
 Welcome to Ethereum Studio documentation!
 =================================================
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
 
 .. toctree::
@@ -35,21 +30,18 @@ Indices and tables
    :caption: Ethereum Studio Basic Features
    :hidden:
 
-   getting-started/index
-   overview/index
+   basic-features/index
 
 .. toctree::
    :maxdepth: 2
    :caption: Ethereum Studio Advanced Features
    :hidden:
 
-   getting-started/index
-   overview/index
+   advanced-features/index
 
 .. toctree::
    :maxdepth: 2
    :caption: Ethereum Studio APIs
    :hidden:
 
-   getting-started/index
-   overview/index
+   api/index
