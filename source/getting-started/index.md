@@ -7,6 +7,9 @@ Ethereum Studio
 maxdepth: 2
 hidden:
 ---
-desktop.md
-web.md
+quick-start.md
+compile-contracts.md
+manage-keypair.md
+get-test-token.md
+deploy-contracts.md
 ```
