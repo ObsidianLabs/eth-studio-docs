@@ -8,7 +8,7 @@ Select the JSON file with the contract name that one would like deploy. Set “C
 
 ![deploy-contracts-2](deploy-contracts-2.png)
 
-After deploying successfully, there is a window with detailed information. Now the contract is deployed on the address:  0x6b35C451ee1f65e3A9c0E375FfE4a9cBA61010b6  and one can click the address and it would turn to the “Contract” interface.
+After deploying successfully, there is a window with detailed information. Now the contract is deployed on the address:  `0x6b35C451ee1f65e3A9c0E375FfE4a9cBA61010b6`  and one can click the address and it would turn to the “Contract” interface.
 
 ![deploy-contracts-3](deploy-contracts-3.png)
 

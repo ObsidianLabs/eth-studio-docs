@@ -11,11 +11,7 @@ Click the “Create” and one can generate the“Keypair info” including “A
 
 Input the keypair name and one can save this keypair and later choose it in the “Explorer” as identity.
 
-~~This “Keypair” named “testTransfer”  is public for everyone to test on **Rinkeby**.~~ 
 
-~~Address: 0x5b43a9013306ea090c9f76ab80730e4d96a59fa3~~
-
-~~Private Key: 0xda2c60819fdf1e5e68e6693ae2d1f00f8e03ba2a2eaf46c25c66fa0855db30c7~~
 
 
 

@@ -15,7 +15,6 @@ Welcome to Ethereum Studio documentation!
    :hidden:
 
    getting-started/index
-   Ethereum Fundamentals/index
 
 
 .. toctree::

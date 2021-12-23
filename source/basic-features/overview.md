@@ -1,7 +1,7 @@
 ## Overview
 
 
-When Ethereum Studio is properly installed and started for the first time, users will see a welcome page, where the dependencies for Ethereum are displayed, including Docker, Ethereum Node and Ethereum Truffle. Ethereum Studio Web does not have any local prerequisite, simply visit https://eth.ide.black to start.
+When Ethereum Studio is properly installed and started for the first time, users will see a welcome page, where the dependencies for Ethereum are displayed, including Docker, Ethereum Node and Ethereum Truffle. Ethereum Studio Web does not have any local prerequisite, simply visit [Ethereum Studio Web](https://eth.ide.black) to start.
 
 ![overview-1](overview-1.png)
 

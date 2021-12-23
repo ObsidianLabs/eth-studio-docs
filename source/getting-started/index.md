@@ -1,6 +1,6 @@
 # Getting Started
 
-Ethereum Studio
+This chapter will introduce you how to start the desktop Ethereum Studio and how to use it.
 
 ```{toctree}
 ---

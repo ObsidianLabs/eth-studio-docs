@@ -12,6 +12,6 @@ In case of importing keypairs, click *Import* button on the bottom-left and pu
 
 ![keypair-3](keypair-3.png)
 
-Before we proceed, please create a few keypairs in the Keypair Manager. We'll be using three keypairs in the following demos, namely `miner` , `my-keypair-1` , `my-keypair-2` .
+Before we proceed, please create a few keypairs in the Keypair Manager. We'll be using three keypairs in the following demos, namely `miner`, `my-keypair-1`, `my-keypair-2`.
 
 **Please note: private keys and mnemonics exclusively prove ownership of a keypair. Please securely store them and DO NOT share them with others under any circumstances. Leaking or losing private keys or mnemonics may lead to permanent loss of digital assets.**

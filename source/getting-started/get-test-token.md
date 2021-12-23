@@ -1,6 +1,6 @@
 ## Get test token on Rinkeby
 
-Click the upper right “Faucet” icon and one will jump to the **Rinkeby Authenticated Faucet.** 
+Click the upper right “Faucet” icon and the page will jump to the **Rinkeby Authenticated Faucet.** 
 
 
 ![get-test-token-1](get-test-token-1.png)

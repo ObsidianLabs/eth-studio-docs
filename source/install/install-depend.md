@@ -1,6 +1,6 @@
 ### Install Dependencies
 
-Using Ethereum Studio requires several dependencies including Docker, Ethereum Node and Ethereum Truffle. All three docker files are needed if one wants to run Ehereum Studio. The moudles are installed in docker client like this:
+Using Ethereum Studio requires several dependencies including **Docker**, **Ethereum Node** and **Ethereum Truffle**. All three docker files are needed if one wants to run Ehereum Studio. The moudles are installed in docker client like this:
 
 ![install-depend-1](install-depend-1.png)
 

@@ -6,7 +6,7 @@ Click the arrow next to *Explorer* tag, and select the address you would like 
 
 ![overview-1](overview-1.png)
 
-Block Explorer will display all holdings of ERC-20 tokens that are listed in [Trust Wallet](https://github.com/trustwallet/assets/blob/master/blockchains/ethereum/tokenlist.json)at the address when connecting to mainnet.
+Block Explorer will display all holdings of ERC-20 tokens that are listed in [Trust Wallet](https://github.com/trustwallet/assets/blob/master/blockchains/ethereum/tokenlist.json) at the address when connecting to mainnet.
 
 ![overview-2](overview-2.png)
 

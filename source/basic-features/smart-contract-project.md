@@ -6,7 +6,7 @@ Click *Project* tag to switch to Project Manager. Then click *New* button on
 
 - **Coin**: A simple coin contract template；
 - **ERC20 Token**: An ERC-20 token contract template；
-- **[Open Zeppelin] Basics**: A set of templates based on [Open Zeppelin](https://openzeppelin.com/) , which includes ERC-20, ERC-721(NFT), ERC-777 and ERC-1155 contract;
+- **[Open Zeppelin] Basics**: A set of templates based on [Open Zeppelin](https://openzeppelin.com/), which includes ERC-20, ERC-721(NFT), ERC-777 and ERC-1155 contract;
 - **[Truffle] Metacoin**：Contract templates created by Ethereum Truffle. Ethereum Studio currently does not support deploying Metacoin contracts.
 
 ![smart-contract-project-1](smart-contract-project-1.png)
@@ -23,7 +23,7 @@ When the project is successfully created, users will be redirected to Project Ed
 
 ![smart-contract-project-2](smart-contract-project-2.png)
 
-Click the Project Settings (gear-shape) icon on the toolbar to open project settings page. Users may view or change project basics, compiler/linter settings, among others.
+Click the *Project Settings* (gear-shape) icon on the toolbar to open project settings page. Users may view or change project basics, compiler/linter settings, among others.
 
 ![smart-contract-project-3](smart-contract-project-3.png)
 
@@ -88,6 +88,6 @@ Let's proceed by verifying the outcome of last transaction. Select *balanceOf*�
 
 ![smart-contract-project-10](smart-contract-project-10.png)
 
-Finally, we pick Transfer from the drop-down list of contract events and click Get event logs (Play) button to query all transfer-related events. Results are shown below in the Event Logs section. Ethereum Studio supports a customized range for events query, but can only return maximum 10,000 queries when connecting to local nodes or testnets, and by default the most recent 10,000 records. Therefore, users should keep the custom range within the aforementioned number. When connecting to Ethereum mainnet, the maximum number of event log queries goes down to 1,000.
+Finally, we pick *Transfer* from the drop-down list of contract events and click *Get event logs*(Play) button to query all transfer-related events. Results are shown below in the Event Logs section. Ethereum Studio supports a customized range for events query, but can only return maximum 10,000 queries when connecting to local nodes or testnets, and by default the most recent 10,000 records. Therefore, users should keep the custom range within the aforementioned number. When connecting to Ethereum mainnet, the maximum number of event log queries goes down to 1,000.
 
 

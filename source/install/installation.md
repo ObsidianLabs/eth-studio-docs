@@ -7,6 +7,4 @@
 - **Linux**: Double-click to open `EthereumStudio-x.x.x.AppImage`.
     - If application doesn't respond,double click to select *Properties* => *Permissions* => *Execute*, and tick the *Allow executing file as program* option. Close the properties window and double-click to open the application (different Linux distributions may have different installation methods).
     - **After Installation on Linux:** Ethereum Studio uses `inotify` by default on Linux to monitor directories for changes. Users will need to increase the amount of inotify watchers to ensure the file tree is refreshed properly.
-        - To increase inotify watchers at boot, execute the following command in Terminal:
-    
-    `echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p`
+        - To increase inotify watchers at boot, execute the following command in Terminal: `echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p`
