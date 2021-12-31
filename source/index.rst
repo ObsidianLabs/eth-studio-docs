@@ -6,41 +6,33 @@
 Welcome to Ethereum Studio documentation!
 =================================================
 
+.. toctree::
+  :maxdepth: 2
+  :caption: introduction
 
-
+  introduction/index
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Introducton
-   :hidden:
+  :maxdepth: 2
+  :caption: getting started
 
-   getting-started/index
-
+  getting-started/index
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Installation
-   :hidden:
+  :maxdepth: 2
+  :caption: basic features
 
-   install/index
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Ethereum Studio Basic Features
-   :hidden:
-
-   basic-features/index
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Ethereum Studio Advanced Features
-   :hidden:
-
-   advanced-features/index
+  basic-features/install-desktop-client
+  basic-features/login
+  basic-features/project
+  basic-features/network
+  basic-features/block-explorer
+  basic-features/keypair-manager
+  basic-features/tool-bar
+  basic-features/contract
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Ethereum Studio APIs
-   :hidden:
+  :maxdepth: 2
+  :caption: advanced features
 
-   api/index
+  advanced-features/index
