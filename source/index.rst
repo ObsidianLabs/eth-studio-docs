@@ -8,19 +8,19 @@ Welcome to Ethereum Studio documentation!
 
 .. toctree::
   :maxdepth: 2
-  :caption: introduction
+  :caption: Introduction
 
   introduction/index
 
 .. toctree::
   :maxdepth: 2
-  :caption: getting started
+  :caption: Getting Started
 
   getting-started/index
 
 .. toctree::
   :maxdepth: 2
-  :caption: basic features
+  :caption: Basic Features
 
   basic-features/install-desktop-client
   basic-features/login
@@ -33,6 +33,6 @@ Welcome to Ethereum Studio documentation!
 
 .. .. toctree::
 ..   :maxdepth: 2
-..   :caption: advanced features
+..   :caption: Advanced Features
 
 ..   advanced-features/index

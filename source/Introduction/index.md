@@ -18,6 +18,16 @@ When deploying contracts, you should use the latest released Docker image versio
 
 Ideas for improving Ethereum Studio or this documentation are always welcome. Read our **contributors guide** for more details.
 
+# Web Client Layout 
+
+
+
+
+# Desktop Client Layout 
+
+
+
+
 # Contrast Web with Desktop
 
 ![intro-2](intro-2.png)

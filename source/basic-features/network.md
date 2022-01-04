@@ -71,25 +71,25 @@ Most testnets use a proof-of-authority consensus mechanism. This means a small n
 
  
 
-### Ropsten
+#### Ropsten
 
 A proof-of-work testnet for those running Geth, Besu and all other Ethereum clients. This means it's the best like-for-like representation of Ethereum. Ropsten started in November 2016 and it can be used with all clients.
 
  
 
-### Rinkeby
+#### Rinkeby
 
 A proof-of-authority(clique) testnet for those running Geth, Besu, Nethermind, and OpenEthereum client. Rinkeby started in April 2017 and is immune to spam attacks (as Trusted parties control ether supply).
 
  
 
-### Gorli
+#### Gorli
 
 A proof-of-authority testnet that works across clients. Gorli started in November 2018. Gorli doesn't fully reproduce the current production environment as it uses PoA.
 
  
 
-### Kovan
+#### Kovan
 
 A proof-of-authority testnet for those running OpenEthereum clients. Kovan started in March 2017 and is immune to spam attacks. Kovan doesn't fully reproduce the current production environment as it uses PoA.
 
