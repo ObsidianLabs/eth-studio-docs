@@ -1,3 +1,0 @@
-# Ethereum Studio Web
-
-Desktop
