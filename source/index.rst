@@ -31,8 +31,8 @@ Welcome to Ethereum Studio documentation!
   basic-features/tool-bar
   basic-features/contract
 
-.. toctree::
-  :maxdepth: 2
-  :caption: advanced features
+.. .. toctree::
+..   :maxdepth: 2
+..   :caption: advanced features
 
-  advanced-features/index
+..   advanced-features/index

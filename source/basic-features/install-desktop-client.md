@@ -10,31 +10,20 @@ Download Ethereum Studio installation package in Github Ethereum Studio Latest R
 
 Starting Ethereum Studio requires several image dependencies, including Docker, Ethereum Node and Ethereum Truffle. All three docker files are necessary to run the Ehereum Studio desktop clients. The modules are installed in docker client like this:
 
- 
-
- 
+![Bs-1](Bs-1.png)
 
 If there is any missing dependency in Docker, one can install it through the "Welcome" page. One can install the available versions in the "Geth in Docker" list. It is the same for "Truffle in Docker", too.
 
- 
+![Bs-2](Bs-2.png)
 
- 
+After all the dependencies are installed, one can click the "Get Started", and the Project interface will be there.
 
- 
-
-After all the dependencies are installed, one can click the "Get Started", and the Project interface will be there. 
-
- 
-
- 
-
- 
+![Bs-3](Bs-3.png)
 
 ### Docker
 
 [Docker](https://www.docker.com/) is used to start the Ethereum Node and building projects in Ethereum Studio. If Docker is not installed yet, users can click the *Install Docker* button to visit the official Docker website and download and install it.
 
- 
 
 Docker can not wake up automatically through the Ethereum Studio desktop client. One has to open Docker before starting the desktop client. Otherwise, an error report would remind "Docker has not been installed".
 
@@ -61,15 +50,11 @@ When all the dependencies are correctly installed, the grey *Skip* button will
 
 It is a bit different in creating an ERC20 project in the Ethereum Studio Desktop client. The "Project name" is "testTransfer" and the "Project location" is automatically settled as "C:\Users\Administrator\Ethereum Studio\testTransfer" in the Windows system. The "Project location" must be empty documentation. On the web client will save projects automatically in the cloud.
 
- 
-
- 
+![Bs-4](Bs-4.png)
 
 In the Ethereum Studio desktop client, one can set "Template" as "Basics - ERC20, ERC721 & ERC 1155" to save time importing basic projects in the later development process. Besides, there is Truffle framework "Metacoin" to choose from while in the web client, there are only three types to choose from -- "Empty Project", "Coin", and "ERC20 Token". The "Open Zeppelin Version" is the latest automatically, and one can select other versions.
 
- 
-
- 
+![Bs-5](Bs-5.png)
 
 In the Ethereum Studio desktop client, one can select three different frameworks as the development environment. The frameworks to be chosen are "Truffle", "Hardhat", "Waffle", and "Dockerized Truffle". Besides, there are also three types of "Npm client", which are "npm", "yarn", and "cnpm" while one can not choose in the web client.
 
@@ -83,11 +68,7 @@ Those frameworks and tools will be automatically used in the command line when o
 
 In the Ethereum Studio desktop client, one can build a Solidity file through "Right Click", the file name. In contrast, one can only build in the web client by clicking the "hammer" icon.
 
- 
-
- 
-
- 
+![Bs-6](Bs-6.png)
 
 ### Keypair Manager with MetaMask
 
@@ -100,3 +81,6 @@ In the Ethereum Studio desktop client, one can only import a MetaMask account th
 ### Development and Custom Network
 
 In the Ethereum Studio desktop client, one can select "Network" as "Development" to set a local instance. At the same time, there is no such choice in the web client.
+
+
+![Bs-7](Bs-7.png)
