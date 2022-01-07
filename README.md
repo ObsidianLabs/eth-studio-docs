@@ -7,7 +7,7 @@
 `make html`
 
 ## Preview
-Open `build/html/index.html` after `make build`
+Open `build/html/index.html` after `make html`
 
 ## Build Clean
 (optional)

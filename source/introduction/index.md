@@ -1,0 +1,19 @@
+# Overview
+
+The Ethereum Studio is a world-class Ethereum smart contract and DApp integrated development environment (IDE), aiming to make Ethereum development faster and easier. Ethereum Studio currently offers a standalone desktop application running on macOS, Windows and Linux, and Ethereum Studio Web that runs in modern web browsers. With Ethereum Studio, you can:
+
+* Set and save a project in the cloud or local quickly
+* Manage keypair information with MetaMask easily
+* Build and test smart contracts with different framework
+* Deploy smart contracts to Ethereum mainnet and testnet
+* Check and call deployed contract functions through the address
+* Query address information with Explorer on the selected network
+* Setting local RPC node, ABI Storage and other advanced features
+
+
+![intro-1](/pic/intro-1.png)
+
+When deploying contracts, you should use the latest released Docker image version. Apart from exceptional cases, only the latest version receives security fixes. Furthermore, breaking changes as well as new features are introduced regularly. We currently use a 0.y.z version number to indicate this fast pace of change.
+
+
+Ideas for improving Ethereum Studio or this documentation are always welcome. Read our **contributors guide** for more details.

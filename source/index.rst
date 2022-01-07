@@ -6,18 +6,28 @@
 Welcome to Ethereum Studio documentation!
 =================================================
 
-Indices and tables
-==================
+.. toctree::
+  :maxdepth: 2
+  :caption: Getting Started
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+  introduction/index
+  introduction/install-desktop-client
+  getting-started/index 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Introducton
-   :hidden:
+  :maxdepth: 2
+  :caption: User Guidance
 
-   getting-started/index
-   overview/index
+  .. basic-features/login
+  basic-features/project
+  basic-features/editor
+  basic-features/network
+  basic-features/block-explorer
+  basic-features/contract
+  basic-features/keypair-manager
+
+.. toctree::
+  :maxdepth: 2
+  :caption: Reference
+
+  advanced-features/index
