@@ -10,24 +10,25 @@ Welcome to Ethereum Studio documentation!
   :maxdepth: 2
   :caption: Getting Started
 
-  introduction/index
-  introduction/install-desktop-client
-  getting-started/index 
+  introduction/1.overview
+  introduction/2.installation
+  introduction/3.quickStart
+
 
 .. toctree::
   :maxdepth: 2
   :caption: User Guidance
 
-  .. basic-features/login
-  basic-features/project
-  basic-features/editor
-  basic-features/network
-  basic-features/block-explorer
-  basic-features/contract
-  basic-features/keypair-manager
+  .. user-guidance/login
+  user-guidance/1.project
+  user-guidance/2.editor
+  user-guidance/3.network
+  user-guidance/4.block-explorer
+  user-guidance/5.contract
+  user-guidance/6.keypair-manager
 
 .. toctree::
   :maxdepth: 2
   :caption: Reference
-
-  advanced-features/index
+  
+  reference/index
