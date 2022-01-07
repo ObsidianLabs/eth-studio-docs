@@ -31,4 +31,10 @@ Welcome to Ethereum Studio documentation!
   :maxdepth: 2
   :caption: Reference
   
-  reference/index
+  reference/1.RPC
+  reference/2.supported-faucets
+  reference/3.supported-frameworks
+  reference/4.supported-testnets
+  reference/5.transaction-history
+  reference/6.script
+  reference/7.ABI
